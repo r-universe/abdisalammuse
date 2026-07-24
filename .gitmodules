@@ -8,3 +8,6 @@
 [submodule "AmoudSurv"]
 	path = AmoudSurv
 	url = https://github.com/cran/AmoudSurv
+[submodule "HawaSpatial"]
+	path = HawaSpatial
+	url = https://github.com/abdisalammuse/hawaspatial
